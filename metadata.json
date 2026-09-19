@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Student Task Manager",
+  "description": "A modern, beginner-friendly student productivity dashboard and task manager designed for computer science students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
